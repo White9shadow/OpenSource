@@ -28,6 +28,6 @@ This repository is open-source and available under the [MIT License](https://git
 
 ## Connect with Me
 - Follow me on [GitHub](https://github.com/White9shadow) for updates and announcements.
-- Connect with me on [LinkedIn](https://linkedin.com/in/your_linkedin_profile) to stay in touch.
+- Connect with me on [Telegram](https://t.me/godTspeed) to stay in touch.
 
 Happy coding! 🚀
